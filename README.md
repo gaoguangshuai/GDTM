@@ -1,2 +1,2 @@
 # GDTM
-A novel Gaussian-weighted transform map for dense object localization and counting
+A novel Gaussian-weighted distance transform map for dense object localization and counting
